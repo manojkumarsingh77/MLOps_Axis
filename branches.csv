@@ -1,0 +1,51 @@
+branch_id,branch_name,city,region,manager_id,opened_date
+BR0001,"Kara, Rattan and Rastogi Branch",Kolkata,East,EMP2824,2019-10-01
+BR0002,Char and Sons Branch,Chennai,North,EMP1409,2018-02-16
+BR0003,Bhavsar-Gera Branch,Ahmedabad,West,EMP5506,2019-07-31
+BR0004,Desai-Sama Branch,Hyderabad,South,EMP5012,2024-01-15
+BR0005,"Gara, Taneja and Bhasin Branch",Kolkata,West,EMP4657,2021-10-13
+BR0006,Swamy-Chatterjee Branch,Lucknow,South,EMP3286,2025-10-05
+BR0007,Singh-Mammen Branch,Bangalore,South,EMP2679,2019-06-17
+BR0008,Das Inc Branch,Kolkata,West,EMP9935,2019-04-25
+BR0009,Dalal-Subramanian Branch,Ahmedabad,Central,EMP2424,2020-02-15
+BR0010,Chandra LLC Branch,Hyderabad,South,EMP7912,2024-08-24
+BR0011,Sandal Inc Branch,Chennai,South,EMP1520,2019-10-19
+BR0012,"Deshpande, Mohanty and Reddy Branch",Ahmedabad,West,EMP1488,2018-11-26
+BR0013,Sarna Inc Branch,Ahmedabad,South,EMP2535,2023-11-03
+BR0014,Shan PLC Branch,Bangalore,South,EMP4582,2021-04-27
+BR0015,"Keer, Merchant and Mangal Branch",Pune,West,EMP4811,2025-11-09
+BR0016,"Sani, Char and Bahri Branch",Hyderabad,West,EMP9279,2016-07-21
+BR0017,"Shah, Mohan and Yogi Branch",Delhi,North,EMP1434,2021-12-03
+BR0018,"Rao, Sahota and Kakar Branch",Ahmedabad,Central,EMP4257,2020-06-23
+BR0019,"Bal, Date and Kamdar Branch",Pune,Central,EMP9928,2023-02-15
+BR0020,"Shetty, Grewal and Goda Branch",Delhi,South,EMP7873,2024-03-18
+BR0021,Andra-Karpe Branch,Hyderabad,Central,EMP4611,2025-04-06
+BR0022,"Atwal, Garde and Vaidya Branch",Mumbai,South,EMP8359,2025-07-26
+BR0023,"Koshy, Barman and Lala Branch",Lucknow,North,EMP5557,2019-05-12
+BR0024,Ram PLC Branch,Pune,West,EMP1106,2025-05-19
+BR0025,"Vala, Jain and Gokhale Branch",Jaipur,West,EMP3615,2023-06-03
+BR0026,Kashyap-Saha Branch,Mumbai,West,EMP7924,2024-11-20
+BR0027,Narang-Madan Branch,Lucknow,Central,EMP6574,2018-12-15
+BR0028,"Sem, Jha and Gulati Branch",Bangalore,North,EMP5552,2023-06-13
+BR0029,"Dhillon, Mahajan and Sami Branch",Kolkata,Central,EMP3547,2017-12-10
+BR0030,Nagarajan-Boase Branch,Chennai,Central,EMP4527,2024-01-19
+BR0031,Jhaveri Inc Branch,Jaipur,North,EMP6514,2023-11-22
+BR0032,Krish-Anne Branch,Bangalore,North,EMP2674,2025-09-18
+BR0033,Divan and Sons Branch,Hyderabad,North,EMP2519,2021-09-28
+BR0034,"Bassi, Viswanathan and Naik Branch",Bangalore,North,EMP7224,2022-03-05
+BR0035,"Badami, Kara and Sani Branch",Kolkata,West,EMP2584,2022-10-03
+BR0036,"Dhillon, Bhattacharyya and Seth Branch",Hyderabad,East,EMP6881,2023-01-01
+BR0037,Shroff-Sama Branch,Jaipur,East,EMP6635,2023-03-10
+BR0038,"Raval, Sachar and Ramesh Branch",Kolkata,North,EMP5333,2023-07-12
+BR0039,Dubey-Mani Branch,Delhi,East,EMP1711,2018-07-23
+BR0040,"Chakrabarti, Dani and Gala Branch",Chennai,East,EMP8527,2020-08-21
+BR0041,Mohan PLC Branch,Jaipur,North,EMP9785,2023-04-18
+BR0042,Ray Inc Branch,Delhi,East,EMP3045,2019-09-09
+BR0043,Bhandari-Badami Branch,Lucknow,Central,EMP7201,2017-08-25
+BR0044,"Dara, Amble and Lanka Branch",Jaipur,South,EMP2291,2016-11-07
+BR0045,Prabhakar Inc Branch,Lucknow,South,EMP5803,2024-09-26
+BR0046,Krish-Sankaran Branch,Hyderabad,North,EMP6925,2021-10-19
+BR0047,Nagarajan-Mohanty Branch,Delhi,West,EMP4150,2020-05-09
+BR0048,"Karan, Tella and Kapadia Branch",Chennai,North,EMP2139,2019-02-18
+BR0049,Sridhar PLC Branch,Kolkata,West,EMP1750,2019-06-02
+BR0050,"Setty, Sane and Devi Branch",Ahmedabad,South,EMP4733,2019-03-01
